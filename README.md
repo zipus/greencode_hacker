@@ -19,7 +19,7 @@ Getting Started
 Documentation
 ---------------
 
-### [Oficial Documentation phpMyAdmin](http://www.phpmyadmin.net/home_page/themes.php)
+[Oficial Documentation phpMyAdmin](http://www.phpmyadmin.net/home_page/themes.php)
 
 License
 ---------------
